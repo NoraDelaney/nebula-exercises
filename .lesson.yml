@@ -1,0 +1,8 @@
+---
+title: "Nebula"
+type: "challenge"
+description: "A Test-Based Framework for JavaScript Fundamentals"
+visibility: "assign"
+ignore:
+- "nebula.md"
+
